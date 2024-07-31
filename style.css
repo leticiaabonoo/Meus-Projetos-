@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+BE+VLG:wght@100..400&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+BE+VLG:wght@100..400&family=Roboto+Mono:ital,wght@0,100..700;1,100..700&display=swap');
+.dados {
+    text-align: center;
+}
+/* Formatar a imagem com cantos arredondados */
+.perfil {
+    border-radius: 20%;
+}
+/* Formatar o título com ID */
+#cv {
+    font-family: "Playwrite BE VLG", cursive;
+    color: rgb(136, 100, 209);
+    font-size: 35px;
+}  
+/* Formatar o logo */
+.logoParis {
+        width: 100px;
+        height: 100px;
+        margin-right: 50px;
+/* colocando borda na imagem */
+    border: 1px solid;
+    border-radius: 10%;
+
+
+}
+
+.titulo {
+    background-color: rgb(255, 255, 255);
+    font-family:"Roboto Mono", monospace;
+    color: rgb(137, 47, 197)0, 204);
+    text-align: center;
+
+}
+
+.box{
+    width: 300px;
+    /* O alinhamento da <div> */
+    display: inline-block;
+/* Mudadndo a margem direita */
+    margin-right: 50px;
+/* Colocando na borda da div */
+    border: 2px solid
+
+}
